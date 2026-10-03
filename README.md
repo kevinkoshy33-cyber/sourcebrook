@@ -1,23 +1,20 @@
 # Sourcebrook
 
-**Every drug has a plant. Every plant has a record.**
+**Healthcare ownership data, built from public records.**
 
-[Sourcebrook](https://sourcebrook.com) links 655 US-listed pharmaceutical and biotechnology companies to the plants that make their drugs, and to the inspection record at each plant:
+[Sourcebrook](https://sourcebrook.com) builds ownership data for US healthcare from public records: which company owns which practice, how platforms grow, and which practices are still independent. Every link is backed by a public source and dated by when it became public.
 
-- FDA inspection outcomes since October 2008: 66,781 inspections at 26,911 drug and biologics facilities (NAI, VAI and OAI classifications)
-- Form 483 citations and FDA warning letters
-- 1,677 inspection problems companies disclosed in 8,055 SEC filings since 2001, each quoted and time-stamped to SEC acceptance
+Built for private equity, operators and advisers who need to see a market clearly before they act.
 
-## Free guides
+## Read more
 
-- [FDA Form 483, explained](https://sourcebrook.com/guides/fda-form-483/)
-- [NAI, VAI and OAI: FDA inspection classifications by year and country](https://sourcebrook.com/guides/fda-inspection-classifications/)
-- [FDA inspection records of 30 CDMOs](https://sourcebrook.com/guides/cdmo-fda-inspection-records/)
-- [All guides](https://sourcebrook.com/guides/)
+- [Overview](https://sourcebrook.com/)
+- [Sample data](https://sourcebrook.com/sample/)
+- [Proof: every accuracy test, with its failures](https://sourcebrook.com/proof/)
 
 ## Sources
 
-Public government records only: SEC EDGAR, the FDA Data Dashboard, openFDA, FDA warning-letter pages, EudraGMDP and MHRA.
+Public records only: Medicare enrollment files, the NPI registry and Care Compare, plus the public sources that show each ownership tie.
 
 ## Contact
 
