@@ -10,6 +10,7 @@ Built for private equity, operators and advisers who need to see a market clearl
 
 - [Overview](https://sourcebrook.com/)
 - [Coverage: every US state and DC](https://sourcebrook.com/coverage/)
+- [Free 2026 report: who owns physical therapy in the US (PDF)](https://sourcebrook.com/report/)
 - [Sample data](https://sourcebrook.com/sample/)
 - [Proof: every accuracy test, with its failures](https://sourcebrook.com/proof/)
 
